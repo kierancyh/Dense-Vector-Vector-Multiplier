@@ -21,11 +21,11 @@ The final architecture was selected after evaluating six designs for area, speed
 
 ### Throughput Scaling @ Max FMAX
 
-`Data Table`
+`Comparison Data Table`
 
 ![Throughput Data](Throughput%20Scaling%20as%20Maximum%20FMAX%20Data.png)
 
-`Graph`
+`Comparison Graph`
 
 ![Throughput Graph](Throughput%20Scaling%20as%20Maximum%20FMAX%20Graph.png)
 
