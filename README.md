@@ -134,6 +134,8 @@ Vector_DotProduct_MAC/
 ├── Throughput Scaling as Maximum FMAX Graph.png
 ├── Final Architecture Throughput Efficiency Data.png
 ├── Final Architecture Throughput vs Area Trade-off Across Varying MAC Configurations Graph.png
+├── Waveform.png                                   # Simulation waveform (64 MACs)
+├── Max Stress Test using 64 MACs.png              # Console output summary of stress test
 ├── src/
 │   ├── MAC.v                                      # Pipelined MAC
 │   ├── Wallace_Tree.v                             # 4-stage Wallace compressor
@@ -146,7 +148,6 @@ Vector_DotProduct_MAC/
     ├── Design Report.docx                         # Full project write-up
     ├── Final Iteration Graphs.xlsx                # All performance plots
     └── Iteration Comparison.xlsx                  # Table summarising all six iterations
-
 ```
 
 ## License
