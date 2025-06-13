@@ -79,7 +79,7 @@ The following behavioral simulation demonstrates a full vector dot product compu
 
 ![Max Stress Test](Max%20Stress%20Test%20using%2064%20MACs.png)
 
-- **Result:** Correct product (66585600)
+- **Result:** Correct Product (66585600)
 - **Cycles:** 16 (fully utilized pipeline)
 - **Latency:** 165 cycles = 1650 ns
 - **Throughput:** ~620 million elements/sec
