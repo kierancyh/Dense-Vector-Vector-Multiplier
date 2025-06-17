@@ -85,7 +85,7 @@ The following behavioral simulation demonstrates a full vector dot product compu
 - **Throughput:** ~620 million elements/sec
 - **MAC Utilization:** 100%
 
-### 📸 Simulation Waveform
+### Simulation Waveform
 
 ![Waveform](Waveform.png)
 
